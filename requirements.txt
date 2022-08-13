@@ -1,0 +1,7 @@
+discord
+colorama
+asyncio
+pyfiglet
+termcolor
+requests
+datetime
