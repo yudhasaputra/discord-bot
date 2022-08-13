@@ -18,7 +18,6 @@
 5. In channel write `!levelup <amount of messages>`
 
 ## Showcase:
-![gambar](https://user-images.githubusercontent.com/34949406/184476993-c97b2b0a-06ae-40fa-a125-58ced085345f.png)
-
+![gambar](https://user-images.githubusercontent.com/34949406/184477332-7e9e35a5-905a-495b-a7c1-11503393bb74.png)
 
 `WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
