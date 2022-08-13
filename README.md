@@ -1,2 +1,22 @@
-# discord-tools
-It will automatically send messages to levelup in leveling bot. (mee6 or whatever bot)
+<div align="center">
+  <h3>⏫ Discord Tools - Level Up Selfbot ⏫/h3>
+  <img src="https://img.shields.io/github/issues/yudhasaputra/discord-tools"/>
+  <img src="https://img.shields.io/github/forks/yudhasaputra/discord-tools"/>
+  <img src="https://img.shields.io/github/stars/yudhasaputra/discord-tools?color=yellow"/>
+  <img src="https://img.shields.io/github/license/yudhasaputra/discord-tools"/>
+ </div>
+<h3 align="center">Automatically sends random mesage every minute</h3>
+<h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
+
+
+## Usage:
+1. Config settings and token in `config.json`
+2. Open install.bat
+3. Open start.bat
+5. In channel write `!levelup <amount of messages>`
+
+## Showcase:
+![gambar](https://user-images.githubusercontent.com/34949406/184476993-c97b2b0a-06ae-40fa-a125-58ced085345f.png)
+
+
+`WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
