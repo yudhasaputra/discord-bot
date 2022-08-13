@@ -17,6 +17,13 @@
 3. Open start.bat
 5. In channel write `!levelup <amount of messages>`
 
+## Usage (Termux):
+~~
+pkg install python3
+pip install -r requirements.txt
+python3 main.py
+~~
+
 ## Showcase:
 ![gambar](https://user-images.githubusercontent.com/34949406/184477332-7e9e35a5-905a-495b-a7c1-11503393bb74.png)
 
