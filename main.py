@@ -54,16 +54,11 @@ def rnd2(length):
     return ''.join(random.choice(string.ascii_lowercase) for i in range(length))
 
 os.system('cls')
-#result = pyfiglet.figlet_format("""Discord Tools""", font = "graceful"  )
-result = """
- ____  __  ____   ___  __  ____  ____    ____  __    __   __    ____ 
-(    \(  )/ ___) / __)/  \(  _ \(    \  (_  _)/  \  /  \ (  )  / ___)
- ) D ( )( \___ \( (__(  O ))   / ) D (    )( (  O )(  O )/ (_/\\___ \
-(____/(__)(____/ \___)\__/(__\_)(____/   (__) \__/  \__/ \____/(____/"""
+result = pyfiglet.figlet_format("""Discord Tools""", font = "graceful"  )
 print (colored(result, 'blue'))
 ip = requests.get('https://api.ipify.org').text
 x = datetime.datetime.now()
-print (colored('''Created by: 𝕐𝕊𝔸 𝔻𝔼𝕍 - 𝕐𝕊𝔸 𝔻𝔼𝕍 - 𝕐𝕊𝔸 𝔻𝔼𝕍 - 𝕐𝕊𝔸 𝔻𝔼𝕍 - 𝕐𝕊𝔸 𝔻𝔼𝕍''', 'cyan', attrs=['bold'])) 
+print (colored('''Created by: YSA DEV - YSA DEV - YSA DEV - YSA DEV - YSA DEV''', 'cyan', attrs=['bold'])) 
 print (colored('•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••', 'green', attrs=['bold']))
 print (colored(f"Ξ Follow myGithub : https://github.com/yudhasaputra \nΞ START           : {x} \nΞ Your IP         : {ip} ", 'green', attrs=['bold']))
 print (colored('••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n', 'green', attrs=['bold']))
