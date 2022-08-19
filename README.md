@@ -19,8 +19,9 @@
 
 ## Usage (Termux):
 ~~~
+Config settings and token in `config.json`
 pkg install python3
-pip install -r requirements.txt
+pip install -r requirements.txt 
 python3 main.py
 ~~~
 
