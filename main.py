@@ -89,7 +89,7 @@ async def levelup(ctx,amount: int):
             except:
                 print(f"{Fore.WHITE}[ {Fore.RED}- {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Cannot delete message {Fore.WHITE}#{msgsend}")
                 pass
-        await asyncio.sleep(60)
+        await asyncio.sleep(60) #setdelayhere(s)
     return
 
 
